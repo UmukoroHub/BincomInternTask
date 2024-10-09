@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //First Task: Declaring and initializing variables
+        // First Task: Declaring and initializing variables
         string name = "John Doe";
         int age = 25;
         bool isAdmin = true;
@@ -14,7 +14,7 @@ class Program
         Console.WriteLine("Age: " + age);
         Console.WriteLine("Is Admin: " + isAdmin);
 
-        //Second Task: This section checks if a number is odd or even
+        // Second Task: This section checks if a number is odd or even
         Console.WriteLine("\nEnter a number:");
         int userInput = int.Parse(Console.ReadLine());
 
